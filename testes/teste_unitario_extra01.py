@@ -1,5 +1,5 @@
 import unittest
-from calculos import Calculadora
+from calculos import *
 
 
 class TesteDivisao(unittest.TestCase):
